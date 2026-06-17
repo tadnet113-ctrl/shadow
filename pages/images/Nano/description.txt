@@ -1,0 +1,20 @@
+Ubiquiti NanoStation M2 - Point d'Accès/Client Extérieur Sans Fil
+La NanoStation M2 est une solution robuste et performante pour l'extension de réseaux sans fil en extérieur, idéale pour les liaisons point à point (PTP) ou point à multipoint (PTMP).
+
+Caractéristiques Principales
+Technologie airMAX : Utilise le protocole TDMA d'Ubiquiti pour améliorer la vitesse et la stabilité du réseau, même avec de nombreux clients connectés.
+
+Performance 2,4 GHz : Opère sur la bande de fréquence 2,4 GHz, offrant une excellente pénétration du signal et une portée étendue.
+
+Design Compact et Tout-en-un : Intègre une antenne à gain élevé dans un boîtier blanc élégant et résistant aux intempéries.
+
+Indicateurs LED : La face arrière dispose d'une rangée de LED indiquant l'alimentation, l'état des ports Ethernet et l'intensité du signal pour faciliter l'alignement de l'antenne.
+
+Spécifications Techniques Visibles
+Double Port Ethernet : Permet la connexion d'un deuxième appareil (comme une caméra de surveillance) directement sur la station.
+
+Montage Facilité : Les fixations à l'arrière sont conçues pour un montage rapide sur mât à l'aide de colliers de serrage.
+
+Logo Ubiquiti (U) : Présent de manière épurée sur la face avant du produit.
+
+Prix : 99 000 FCFA
